@@ -21,7 +21,7 @@ body{
     flex-direction: column;
     text-align: center;
     transform: rotate(350deg);
-    margin-top: -1.25rem;
+    margin-top: 1.25rem;
     margin-bottom: 2rem;
 }
 .greeting span{
