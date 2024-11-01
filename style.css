@@ -71,11 +71,11 @@ body{
     font-size: 0.75rem;
 }
 .eucalyptu{
-    height: 30%;
+    height: 10%;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 15px;
+    margin: 20px;
     background-image: url('eucalyptu.webp');
 }
 .letter{
