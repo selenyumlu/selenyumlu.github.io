@@ -27,7 +27,7 @@ body{
 .greeting span{
     font-family: "afiany", Verdana, Tahoma;
     font-size: 6rem;
-    line-height: 4rem;
+    line-height: 3.5rem;
 }
 .parent-names{
     display: flex;
