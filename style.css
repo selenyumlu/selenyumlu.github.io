@@ -53,7 +53,6 @@ body{
 }
 .date{
     font-size: 1.4rem;
-	margin-bottom: 0.6rem;
 }
 .date span:nth-child(2){
     font-size: 2rem;
